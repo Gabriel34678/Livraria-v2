@@ -163,15 +163,15 @@ button {
   border: none;
   border-radius: 4px;
   padding: 10px;
-  cursor: pointer; /* Adiciona um cursor de ponteiro */
+  cursor: pointer;
 }
 
-/* Botão de Limpar */
+
 button[type="reset"] {
   background-color: #6c757d;
 }
 
-/* Botão de Enviar */
+
 button:hover {
   background-color: #0056b3;
 }
