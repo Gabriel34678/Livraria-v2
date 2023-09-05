@@ -147,8 +147,8 @@ textarea {
   padding: 8px;
   border: 1px solid #ccc;
   border-radius: 4px;
-  resize: vertical; /* Permite redimensionar verticalmente o textarea */
-  height: 120px; /* Altura inicial do textarea */
+  resize: vertical; 
+  height: 120px; 
 }
 
 select {
